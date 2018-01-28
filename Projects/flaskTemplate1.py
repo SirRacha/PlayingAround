@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 26 16:28:59 2018
-
-@author: RoscoeBColtrane
-"""
 
 from flask import Flask
 
