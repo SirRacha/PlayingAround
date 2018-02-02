@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jan 28 09:24:48 2018
-
-@author: RoscoeBColtrane
-"""
+#Template for stack building
 
 class Stack:
     def __init__(self):
